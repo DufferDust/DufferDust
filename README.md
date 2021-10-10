@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DufferDust
 - 👀 I’m interested in youtube 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a multipurpose
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me: https://www.youtube.com/channel/UCdntL_-B7OlBTGXKBAeAPDw
 
 <!---
